@@ -2,15 +2,11 @@
 # This program prints a short login alert.
 
 print("=== LOGIN ALERT ===")
-#there is a space berfore print
- # print("A new device signed in to your account.")
+#there is space before print
 print("A new device signed in to your account.")
-#It will give syntax error cause Print is undefined word
-#Print("Time: 09:15")
+#the language didn't understand Print with UpperCase
 print("Time: 09:15")
-#the double qouts not found in other side
-#print("If this was not you, change your password.)
+#ther is one side double qout
 print("If this was not you, change your password.")
-#the other paramiter not found
-#print("Contact the IT team for help."
-print("Contact the IT team for help.")      
+# there is one side parenthese
+print("Contact the IT team for help.")
